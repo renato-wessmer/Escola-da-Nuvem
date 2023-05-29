@@ -24,3 +24,91 @@
   <a href ="#mortar_board-colaborador">Colaboradores</a>
 </p>
 
+<h1 align="center">
+  Curso de formação em AWS.
+<h1 align="center">
+<br>
+
+## :rocket: O Projeto
+
+* Qualificação pra pessoas interessadas em aprender sobre AWS.
+<br>
+
+## :dart: Proposta
+
+<a href ="#pushpin-início">Voltar ao início</a>  
+<br>
+
+## :bulb: Metodologia Utilizada
+
+<a href ="#pushpin-início">Voltar ao início</a>  
+<br> 
+
+## :hourglass_flowing_sand: Planejamento de Aulas
+      
+|Módulo|Unidades Curriculares |Carga horária total (h)|Dias|Início| Término|
+| -------- |-------- |-------- |-------- |-------- | -------- |
+|**-**|Aula inaugural|0,5|1|29/05/2023|29/05/2023|
+|**-**|-|-|-|-|-|
+|**-**|-|-|-|-|-|
+|**-**|-|-|-|-|-|
+|**-**|-|-|-|-|-|
+|**-**|-|-|-|-|-|
+|**-**|-|-|-|-|-|
+
+<a href ="#pushpin-início">Voltar ao início</a>  
+<br>
+
+## :calendar: As entregas dos Sprints
+
+☑️ SPRINT 1 ([Link da Pasta]()): A fazer :heavy_check_mark:
+
+☑️ SPRINT 2 ([Link da Pasta]()): A fazer :heavy_check_mark:
+
+☑️ SPRINT 3 ([Link da Pasta]()): A fazer :heavy_check_mark: 
+
+☑️ SPRINT 4 ([Link da Pasta]()): A fazer :heavy_check_mark: 
+
+☑️ SPRINT 5 ([Link da Pasta]()): A fazer :heavy_check_mark: 
+
+☑️ SPRINT 6 ([Link da Pasta]()): A fazer :heavy_check_mark: 
+
+☑️ SPRINT 7 ([Link da Pasta]()): A fazer :heavy_check_mark: 
+
+☑️ SPRINT 8 ([Link da Pasta]()): A fazer :heavy_check_mark: 
+
+☑️ SPRINT 9 ([Link da Pasta]()): A fazer :heavy_check_mark: 
+
+☑️ SPRINT 10 ([Link da Pasta]()): A fazer :heavy_check_mark: 
+
+☑️ SPRINT 11 ([Link da Pasta]()): A fazer :heavy_check_mark: 
+
+<a href ="#pushpin-início">Voltar ao início</a>  
+<br> 
+
+## :camera_flash: As Versões Finais dos Projetos
+
+☑️ 1 ENTREGA: [colocar endereço do site aqui](colocar endereço do site aqui) :heavy_check_mark:
+
+<a href ="#pushpin-início">Voltar ao início</a>  
+<br> 
+
+## :computer: Tecnologias Utilizadas
+
+* **Versionamento:** GIT e GitHub desktop;           
+* **Planejamento:** Project Libre
+* **Comunicação:** Whatsapp.
+
+<a href ="#pushpin-início">Voltar ao início</a>  
+<br>     
+      
+## :mortar_board: Colaborador
+
+|Nome|Função|Linkedin|GitHub|Avatar|
+| -------- |-------- |-------- |-------- |-------- |
+|**Renato Wessner**|Estudante| [@LinkedIn](https://www.linkedin.com/in/renato-wessmer-dev-gpti/)|[@GitHub](https://github.com/renato-wessmer)|<img src = "/Imagens Geral/renato.png" width="50" height="50"/>|
+
+<a href ="#pushpin-início">Voltar ao início</a>  
+<br>
+
+<h1 align="center"> <img src = "Imagens Geral/senai-logo-2.png" height="90" /></h1>    
