@@ -25,13 +25,13 @@
 </p>
 
 <h1 align="center">
-  Curso de formação em AWS.
+  Curso de formação nos fundamentos em AWS.
 <h1 align="center">
 <br>
 
 ## :rocket: O Projeto
 
-* Qualificação pra pessoas interessadas em aprender sobre AWS.
+* O AWS Fundamentos da Escola da Nuvem é um programa rápido, 100% online, de curta duração, com o principal objetivo de introduzir os principais conceitos e serviços da nuvem AWS, dividido em aulas teóricas, laboratórios no ambiente AWS, atividades práticas e quizzes de revisão..
 <br>
 
 ## :dart: Proposta
@@ -111,4 +111,4 @@
 <a href ="#pushpin-início">Voltar ao início</a>  
 <br>
 
-<h1 align="center"> <img src = "Imagens Geral/senai-logo-2.png" height="90" /></h1>    
+<h1 align="center"> <img src = "Imagens Geral/escola-da-nuvem.png" height="90" /></h1>    
