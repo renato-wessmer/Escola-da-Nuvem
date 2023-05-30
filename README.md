@@ -111,4 +111,4 @@
 <a href ="#pushpin-início">Voltar ao início</a>  
 <br>
 
-<h1 align="center"> <img src = "Imagens Geral/escola-da-nuvem.png" height="90" /></h1>    
+<h1 align="center"> <img src = "Imagens Geral/escola-da-nuvem.png" height="150" /></h1>    
