@@ -8,7 +8,7 @@
 <br>
 
 <p align="center">
-      <img src="/Imagens Geral/tech.jpg" height="150">
+      <img src="/Imagens Geral/tech.jpg" height="300">
 <p align="center">
 
 <hr>
