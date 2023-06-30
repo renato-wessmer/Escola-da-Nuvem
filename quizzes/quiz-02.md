@@ -22,44 +22,49 @@
 
 #### Q4. Qual serviço podemos utilizar para controlar o nosso orçamento na Nuvem AWS?
 
-- [ ] laaS
-- [x] SaaS
-- [ ] PaaS
+- [ ] AWS Console de Gerenciamento
+- [ ] AWS Cost Explorer
+- [x] AWS Budgets 
+- [ ] AWS SDK
 
 #### Q5. Qual plano de suporte é recomendo para carga de missão crítica e que o tempo de atendimento é de 15 minutos?
 
-- [ ] um conjunto de computadores 
-- [x] uma localizaqäo geogråfica com um conjunto de Zonas de Disponibilidade 
-- [ ] um conjunto de serviços 
-- [ ] um conjunto de produtos AWS
+- [ ] Básico
+- [ ] Business
+- [ ] Desenvolvedor
+- [x] Enterprise
 
 #### Q6. Qual é a ordem dos planos de suporte AWS, do mais Barato, para o mais Caro?
 
-- [ ] Sim
-- [x] Não
+- [ ] Enterprise, Básico, Desenvolvedor, Business, On-Ramp
+- [ ] Desenvolvedor, Business, On-Ramp, Enterprise, Básico
+- [x] Básico, Desenvolvedor, Business, On-Ramp, Enterprise
 
 #### Q7. Você precisa apresentar o custo do seu projeto para um cliente. Qual serviço devemos utilizar?
 
-- [ ] comprar um novo hardware 
-- [ ] aumentar a memória do computador 
-- [ ] colocar dois computadores um em cima do outro 
-- [x] aumentar o número de instâncias 
-
+- [ ] AWS Budgets
+- [x] AWS Princing Calculator 
+- [ ] AWS Cost Explorer
+- [ ] AWS Console de Gerenciamento
 #### Q8. Qual plano de suporte oferece o CONCIERGE? (Selecione 2)
 
-- [ ] uma localização geográfica  
-- [x] data centers discretos da AWS que estäo conectados com energia e rede isolada 
-- [ ] uma infraestrutura de servidores que atuam como cache
+- [x] Enterprise On-Ramp 
+- [ ] Business
+- [ ] Desenvolvedor
+- [x] Enterprise 
+- [ ] Básico
 
 #### Q9. Qual serviço utilizamos para visualizar o consumo atual e também faz predições de custo dos serviços?
 
-- [ ] still guessing 
-- [ ] slow speed 
-- [ ] expensive 
-- [x] go global in minutes 
+- [ ] AWS Budgets
+- [ ] AWS Console de Gerenciamento AWS
+- [x] AWS Cost Explorer 
+- [ ] AWS Calculadoras de Preço
 
-#### Q10. Pontos de Presença são:
+#### Q10. Qual plano de suporte possui todas as verificações no AWS Trusted Advisor? (Selecione 3)
 
-- [ ] Conjunto de regiões 
-- [x] Infraestrutura de servidores que atuam como cache 
-- [ ] Data centers discretos da AWS que estão conectados com energia e rede isolada 
+- [ ] Desenvolvedor
+- [X] Business
+- [X] Enterprise On-Ramp
+- [x] Enterprise 
+
