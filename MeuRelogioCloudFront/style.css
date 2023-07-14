@@ -1,0 +1,17 @@
+body {
+  font-family: system-ui;
+  background: rgb(252,215,30,0.39);
+  color: #CCE627;
+  text-align: center;
+}
+
+.clock {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translateX(-50%) translateY(-50%);
+  color: #white;
+  font-size: 60px;
+  font-family: system-ui;
+  letter-spacing: 7px;
+}

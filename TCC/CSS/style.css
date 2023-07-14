@@ -1,0 +1,39 @@
+.p-0 {
+    background: #DDD6D9;
+}
+
+.container{
+    margin-left: 25px;
+}
+
+.topo{
+    background-color: #D98236;
+    padding: 50px 0px;
+    min-height: 300px;
+}
+
+.container1{
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-bottom: 15px;
+    background-color: #F26513;
+}
+
+.row{
+    margin-top: 25px;
+    margin-left: 25px;    
+}
+
+.tutor{
+    margin-bottom: 15px;
+    text-align: center;
+}
+
+.c{
+    align-items: center;
+}
+
+#img_redonda{
+    border-radius: 50%;
+}

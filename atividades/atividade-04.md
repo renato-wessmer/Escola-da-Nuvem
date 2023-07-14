@@ -8,7 +8,7 @@
 - [x] whoami
 - [ ] pwd
 - [ ] sudo su
-####
+#### O comando utilizado para identificar o usuário atualmente logado no Amazon EC2 Linux é o comando "whoami", ele retornará o nome do usuário atualmente autenticado. 
 
 ---------------------------------------------------------------------------------------------------------------------
 #### Q2. Qual comando utilizamos para listar arquivos ocultos no terminal do Amazon EC2 Linux?
@@ -17,7 +17,7 @@
 - [x] ls -a
 - [ ] clear
 - [ ] sudo su
-####
+#### O comando utilizado para listar arquivos ocultos no terminal do Amazon EC2 Linux é "ls -a", ele exibirá todos os arquivos e diretórios, incluindo os ocultos, começando com um ponto (.), que são ocultos por convenção.
 
 ---------------------------------------------------------------------------------------------------------------------
 #### Q3. Após digitar muitos comandos no terminal do Amazon EC2 Linux, você precisa LIMPAR a tela. Qual comando utilizamos?
@@ -26,7 +26,7 @@
 - [x] clear
 - [ ] ls
 - [ ] sudo su
-####
+#### O comando utilizado para limpar a tela no terminal do Amazon EC2 Linux é o comando "clear". Ao executar esse comando, ele limpará a tela, removendo todo o conteúdo anteriormente exibido e deixando apenas a linha de comando atual visível.
 
 ---------------------------------------------------------------------------------------------------------------------
 #### Q4. Você precisa acessar a pasta "/var/" via terminal do Amazon EC2 Linux, qual comando devemos utilizar?
